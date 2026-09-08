@@ -1,6 +1,5 @@
 package com.fiap.ec.backend_consultas.service;
 
-
 import java.util.List;
 
 import org.springframework.stereotype.Service;
@@ -41,3 +40,4 @@ public class EspecialidadeService {
                 .orElseThrow(() -> new RecursoNaoEncontradoException("Especialidade não encontrada"));
     }
 }
+

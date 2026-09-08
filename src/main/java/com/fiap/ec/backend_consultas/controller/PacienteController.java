@@ -1,5 +1,4 @@
 package com.fiap.ec.backend_consultas.controller;
-
 import java.util.List;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
@@ -39,3 +38,4 @@ public class PacienteController {
                 .orElseThrow(() -> new RecursoNaoEncontradoException("CPF não encontrado."));
     }
 }
+

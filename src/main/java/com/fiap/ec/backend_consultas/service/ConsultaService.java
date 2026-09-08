@@ -90,3 +90,4 @@ public class ConsultaService {
         return consultaRepository.findByPacienteId(pacienteId);
     }
 }
+

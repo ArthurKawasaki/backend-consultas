@@ -76,3 +76,4 @@ public class DataLoader implements CommandLineRunner {
         System.out.println("DataLoader: 4 consultas de exemplo criadas com sucesso!");
     }
 }
+

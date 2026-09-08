@@ -1,6 +1,5 @@
 package com.fiap.ec.backend_consultas.repository;
 
-
 import java.util.List;
 import java.util.Optional;
 

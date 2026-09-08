@@ -1,6 +1,5 @@
 package com.fiap.ec.backend_consultas.exception;
 
-
 import java.util.Map;
 
 import org.hibernate.NonUniqueResultException;
